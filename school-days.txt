@@ -1,0 +1,10 @@
+# Use this list to totally block access to known social media sites on your network.
+# Note: this list will block access to / break other Bytedance products and apps.
+# If you want to continue using tiktok, add this list that blocks only ad/tracking domains: https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts
+
+discord.com
+discordapp.net
+discordapp.com
+media.discordapp.net
+twitch.com
+twitch.tv
