@@ -1,0 +1,44 @@
+# Use this list to totally block access to known social media sites on your network.
+# Note: this list will block access to / break other Bytedance products and apps.
+# If you want to continue using tiktok, add this list that blocks only ad/tracking domains: https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts
+0.0.0.0	discord.com
+0.0.0.0	www.discord.com
+0.0.0.0	discordapp.net
+0.0.0.0	www.discordapp.net
+0.0.0.0	discordapp.com
+0.0.0.0	www.discordapp.com
+0.0.0.0	media.discordapp.net
+0.0.0.0	twitch.com
+0.0.0.0	www.twitch.com
+0.0.0.0	twitch.tv
+0.0.0.0	www.twitch.tv
+0.0.0.0	api.twitch.tv
+0.0.0.0	gql.twitch.tv
+0.0.0.0	www.roblox.com
+0.0.0.0	facebook.com
+0.0.0.0	www.facebook.com
+0.0.0.0	fb.com
+0.0.0.0	www.fb.com
+0.0.0.0	apis.roblox.com
+0.0.0.0	assetdelivery.roblox.com
+0.0.0.0	assetgame.roblox.com
+0.0.0.0	avatar.roblox.com
+0.0.0.0	auth.roblox.com
+0.0.0.0	catalog.roblox.com
+0.0.0.0	client-telemetry.roblox.com
+0.0.0.0	clientsettingscdn.roblox.com
+0.0.0.0	ecsv2.roblox.com
+0.0.0.0	ephemeralcounters.api.roblox.com
+0.0.0.0	gameinternationalization.roblox.com
+0.0.0.0	games.roblox.com
+0.0.0.0	gold.roblox.com
+0.0.0.0	lga1-128-116-126-3.roblox.com
+0.0.0.0	lms.roblox.com
+0.0.0.0	locale.roblox.com
+0.0.0.0	metrics.roblox.com
+0.0.0.0	premiumfeatures.roblox.com
+0.0.0.0	realtime.roblox.com
+0.0.0.0	roblox-api.arkoselabs.com
+0.0.0.0	sea1-128-116-100-3.roblox.com
+0.0.0.0	thumbnails.roblox.com
+0.0.0.0	www.roblox.com
